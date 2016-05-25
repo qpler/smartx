@@ -1,0 +1,49 @@
+/* loading css */
+.page__loader{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fff;
+    z-index: 7000;
+    transition: opacity 0.5s linear;
+    -webkit-transition: opacity 0.5s linear;
+}
+.page__loader ul{
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+.page__ui-logo{
+    margin-top: 30px;
+}
+
+
+.page__ui-spinner svg{
+    color: #fff;
+    text-align: center;
+    -webkit-animation: spinner 1s infinite linear;
+    animation: spinner 1s infinite linear;
+}
+@-webkit-keyframes spinner{
+  0%{-webkit-transform:rotate(0);transform:rotate(0)}
+  100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@keyframes spinner{
+  0%{-webkit-transform:rotate(0);transform:rotate(0)}
+  100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}

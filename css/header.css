@@ -1,0 +1,14 @@
+.user-account-dropdown{    
+    display: block;
+    position: relative;
+    height: 40px;
+    width: 40px;
+    margin: 10px 0px;
+    float: right;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+    cursor: pointer;
+    padding: 9px;
+    color: #1BCE7C;
+}
