@@ -21,15 +21,15 @@
     "Fecha":"16 dic. 2016"
   },
   {
-    "Logo":"<a href=\"http:\/\/cumplo.cl\/\" target=\"_blank\">\r\n                                                    <object style='\"width\": \"120px\"' type=\"image\/svg+xml\" data=\"assets\/images\/landing\/main-landing\/cumplo.svg\"><\/object>\r\n                                                <\/a>",
+    "Logo":"<a href=\"http:\/\/cumplo.cl\/\" target=\"_blank\">\r\n                                                    <object style=\"width: 120px\" type=\"image\/svg+xml\" data=\"assets\/images\/landing\/main-landing\/cumplo.svg\"><\/object>\r\n                                                <\/a>",
     "Titulo":"smartx sella alianza con cumplo",
-    "Contenido":"Estamos muy contentos de anunciar que hemos hecho una alianza con <a class=\"white\" href=\"http:\/\/www.cumplo.cl\"\r\n                                                                                                                         target=\"_blank\"><b>Cumplo<\/b><\/a> para apoyar el\r\n                                                    crecimiento de las\r\n                                                    PyMEs en nuestro pa\u00EDs.",
+    "Contenido":"Estamos muy contentos de anunciar que hemos hecho una alianza con [__Cumplo__](http:\/\/www.cumplo.cl) para apoyar el crecimiento de las PyMEs en nuestro país.",
     "Fecha":"29 nov. 2016"
   },
   {
     "Logo":"<a href=\"http:\/\/startupchile.org\/\" target=\"_blank\"><img class=\"img-responsive img-logo\"\r\n                                                                                                        src=\"\/\/smartx.azureedge.net\/images\/landing\/main-landing\/startupchile.png\"\/><\/a>",
     "Titulo":"smartx dentro de las 28 mejores startups de la generación 16",
-    "Contenido":"<p class=\"no-margin white sx-subtitle pt+\">\r\n                                                    <span class=\"text-uppercase\">smartx dentro de las 28 mejores startups de la generaci\u00F3n 16<\/span>\r\n                                                    <br\/><br\/>\r\n                                                    Luego de varios meses incubados dentro de Start-Up Chile, hemos clasificado entre las mejores 28\r\n                                                    startups de un universo de m\u00E1s de 2.000 postulaciones.\r\n                                                <\/p>",
+    "Contenido":"Luego de varios meses incubados dentro de Start-Up Chile, hemos clasificado entre las mejores 28 startups de un universo de más de 2.000 postulaciones.",
     "Fecha":"18 nov. 2016"
   }
 ]
